@@ -13,6 +13,7 @@ interests: [Machine Learning, IoT, Cybersecurity]
 Role: Technology Manager
 Interests: [Coding, Gaming, AI, Open Source, Community Building]
 Hobbies: [Playing video games, Reading sci-fi novels, Experimenting with new tech]
+Blog: https://darknessnerd.github.io/
 # I'm an enthusiast of the ever-expanding realms of technology and innovation.
 ```
 
