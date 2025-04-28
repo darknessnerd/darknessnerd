@@ -8,7 +8,7 @@ Welcome to the Code Odyssey 🚀
 Copia codice
 name: Brunino
 location: Anywhere with WiFi
-languages: [Python, JavaScript, C++, Java]
+languages: [Python, JavaScript, C++, Java, go]
 interests: [Machine Learning, IoT, Cybersecurity]
 Role: Technology Manager
 Interests: [Coding, Gaming, AI, Open Source, Community Building]
